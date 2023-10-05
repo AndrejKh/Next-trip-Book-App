@@ -1,16 +1,14 @@
-# strong-cover-1612
+*Next Trip Book Project
 
 
-<h1 align="center">TripBook.com</h1>
-
-<h3 align="center">TripBook is a Next.JS project</h3>
+<h3 align="center">This is a Next.JS project</h3>
 
 <br />
 
 
-<h2 align="center">🖥️ Tech Stack</h2>
+<h2 align="left">Tech Stack</h2>
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Next.Js-3bc7bd?logo=next.js&style=for-the-badge&logoColor=black" alt="next-js" />
   <img src="https://img.shields.io/badge/Chakra%20UI-3bc7bd?style=for-the-badge&logo=chakraui&logoColor=white" alt="chakra-ui" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />
@@ -44,39 +42,9 @@ its Fully Responsive booking web application that allows you to book hotels, fli
 
 <br />
 
-## Glimpses of TripBook.com 🙈 :
-
-
-<table>
-  <tr>
-    <td><img maxW="50%" src="https://i.ibb.co/Twq7Dq5/Screenshot-11.png"  /></td>
-    <td><img maxW="50%" src="https://i.ibb.co/wYWWLG7/Screenshot-12.png"   /></td>
-  </tr>
-  <tr>
-   <td><img src="https://i.ibb.co/m5qtdsg/Screenshot-13.png"  /></td>
-    <td><img src="https://i.ibb.co/SdfCr02/Screenshot-14.png" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://i.ibb.co/gRLr7Nw/Screenshot-15.png"  /></td>
-    <td><img src="https://i.ibb.co/HGrd1NT/Screenshot-16.png"  alt="men" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://i.ibb.co/6XsMDY7/Screenshot-17.png"   /></td>
-    <td><img src="https://i.ibb.co/74bBb7Z/Screenshot-18.png"   /></td>
-  </tr>
-   
-
-</table>
-
-<br />
-
-
-
 ## Getting Started
 
 This project was built using NextJS, Chakra UI, MongoDB. It is an e-commerce web application and for running on your local environment you should follow these guidelines.
-
-
 
 
 ## Available Scripts
@@ -94,7 +62,6 @@ You may also see any lint errors in the console.
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
 ### `npm run build`
 
