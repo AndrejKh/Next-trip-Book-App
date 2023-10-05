@@ -1,8 +1,5 @@
-*Next Trip Book Project
-
-
-<h3 align="center">This is a Next.JS project</h3>
-
+<h3 align="center">Next Trip Book Project</h3>
+This is a Next.JS project
 <br />
 
 
